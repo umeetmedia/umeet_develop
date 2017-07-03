@@ -2303,8 +2303,9 @@ text-decoration:none;
 .footer .copyright {
 font-size:0.8em;
 padding: 0.6em 0;
-float: right;
+
 display: inline-block;
+margin-left: 35%;
 }
 }
 
@@ -2773,6 +2774,7 @@ text-decoration:none;
 .copyright{
 font-size:0.7em;
 padding:1em 0;
+text-align: center;
 }
 /* single mobile */
 .single .authorbox .author-newpost li,
